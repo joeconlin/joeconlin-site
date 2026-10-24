@@ -1,0 +1,21 @@
+# Joe Conlin — projects and notes
+
+> I work in technology. Outside work, I make software and spend time with synthesizers. This site collects my projects and notes.
+
+## Pages
+
+- [Home](https://joeconlin.github.io/joeconlin-site/)
+- [About](https://joeconlin.github.io/joeconlin-site/about/)
+- [Writing index](https://joeconlin.github.io/joeconlin-site/writing/)
+- [Projects index](https://joeconlin.github.io/joeconlin-site/projects/)
+- [RSS feed](https://joeconlin.github.io/joeconlin-site/index.xml)
+
+## Writing
+
+Notes and longer writing will appear here.
+
+## Projects
+
+- [Patchbook](https://joeconlin.github.io/joeconlin-site/projects/patchbook/) · [Markdown](https://joeconlin.github.io/joeconlin-site/projects/patchbook/index.md)
+- [VFD Maker](https://joeconlin.github.io/joeconlin-site/projects/vfd-maker/) · [Markdown](https://joeconlin.github.io/joeconlin-site/projects/vfd-maker/index.md) · [Source](https://github.com/joeconlin/vfd-image-maker)
+- [Pizza Scorecard](https://joeconlin.github.io/joeconlin-site/projects/pizza-scorecard/) · [Markdown](https://joeconlin.github.io/joeconlin-site/projects/pizza-scorecard/index.md) · [Source](https://github.com/joeconlin/pizza-ranking-app)
