@@ -2,9 +2,9 @@
 
 By Joe Conlin · 18 October 2026
 
-Canonical HTML: https://joeconlin.github.io/joeconlin-site/projects/vfd-maker/
+Canonical HTML: https://joeconlin.org/projects/vfd-maker/
 
-![VFD Maker open with a fictional “DEMO PAD 01” line displayed in green segmented lettering.](https://joeconlin.github.io/joeconlin-site/images/vfd-maker-demo.jpg)
+![VFD Maker open with a fictional “DEMO PAD 01” line displayed in green segmented lettering.](https://joeconlin.org/images/vfd-maker-demo.jpg)
 
 VFD Maker running locally with fictional demo text; screenshot captured from its public interface.
 

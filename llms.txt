@@ -4,11 +4,11 @@
 
 ## Pages
 
-- [Home](https://joeconlin.github.io/joeconlin-site/)
-- [About](https://joeconlin.github.io/joeconlin-site/about/)
-- [Writing index](https://joeconlin.github.io/joeconlin-site/writing/)
-- [Projects index](https://joeconlin.github.io/joeconlin-site/projects/)
-- [RSS feed](https://joeconlin.github.io/joeconlin-site/index.xml)
+- [Home](https://joeconlin.org/)
+- [About](https://joeconlin.org/about/)
+- [Writing index](https://joeconlin.org/writing/)
+- [Projects index](https://joeconlin.org/projects/)
+- [RSS feed](https://joeconlin.org/index.xml)
 
 ## Writing
 
@@ -16,6 +16,6 @@ Notes and longer writing will appear here.
 
 ## Projects
 
-- [Patchbook](https://joeconlin.github.io/joeconlin-site/projects/patchbook/) · [Markdown](https://joeconlin.github.io/joeconlin-site/projects/patchbook/index.md)
-- [VFD Maker](https://joeconlin.github.io/joeconlin-site/projects/vfd-maker/) · [Markdown](https://joeconlin.github.io/joeconlin-site/projects/vfd-maker/index.md) · [Source](https://github.com/joeconlin/vfd-image-maker)
-- [Pizza Scorecard](https://joeconlin.github.io/joeconlin-site/projects/pizza-scorecard/) · [Markdown](https://joeconlin.github.io/joeconlin-site/projects/pizza-scorecard/index.md) · [Source](https://github.com/joeconlin/pizza-ranking-app)
+- [Patchbook](https://joeconlin.org/projects/patchbook/) · [Markdown](https://joeconlin.org/projects/patchbook/index.md)
+- [VFD Maker](https://joeconlin.org/projects/vfd-maker/) · [Markdown](https://joeconlin.org/projects/vfd-maker/index.md) · [Source](https://github.com/joeconlin/vfd-image-maker)
+- [Pizza Scorecard](https://joeconlin.org/projects/pizza-scorecard/) · [Markdown](https://joeconlin.org/projects/pizza-scorecard/index.md) · [Source](https://github.com/joeconlin/pizza-ranking-app)

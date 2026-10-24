@@ -2,9 +2,9 @@
 
 By Joe Conlin · 18 October 2026
 
-Canonical HTML: https://joeconlin.github.io/joeconlin-site/projects/patchbook/
+Canonical HTML: https://joeconlin.org/projects/patchbook/
 
-![Abstract original illustration of linked reference notes.](https://joeconlin.github.io/joeconlin-site/images/patchbook-study.svg)
+![Abstract original illustration of linked reference notes.](https://joeconlin.org/images/patchbook-study.svg)
 
 Original concept illustration; not a product screenshot.
 
