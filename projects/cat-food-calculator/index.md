@@ -4,16 +4,18 @@ By Joe Conlin · 24 October 2026
 
 Canonical HTML: https://joeconlin.org/projects/cat-food-calculator/
 
-[Try it](https://calc.catrepairwoman.com) · [Source on GitHub](https://github.com/joeconlin/cat-food-calculator) · [Cat Repairwoman](https://catrepairwoman.com)
+[Try it](https://calc.catrepairwoman.com) · [How to use it](https://catrepairwoman.com/how-to-use-cat-food-calculator/) · [Cat Repairwoman](https://catrepairwoman.com)
 
 ![The Cat Food Calculator's first step, asking for a cat's name, current weight, life stage, and activity level, next to a cartoon cat.](https://joeconlin.org/images/cat-food-calculator.jpg)
 
 The live calculator at calc.catrepairwoman.com.
 
-Cat Food Calculator works out how much to feed a cat. Enter its weight, life stage, activity level, and body condition score, and it gives daily calories, a safe weight-loss timeline when one is needed, and a wet and dry meal plan you can print and take home. It handles multi-cat households too.
+My wife, Dr. Kara Caldwell, is a cat-only veterinarian. [Cat Repairwoman](https://catrepairwoman.com) is her channel for cat owners who want higher-level care they can do at home. I help her with it, and the Cat Food Calculator is the piece I built.
 
-I built it for [Cat Repairwoman](https://catrepairwoman.com), a cat-only veterinary site with care guides for owners. The vet uses it during exam visits, so the phone layout and the printout are the product.
+Feeding charts on food bags are broad estimates, and they tend to overfeed. The calculator starts from your cat’s weight, life stage, activity level, and body condition, works out daily calories, and turns them into real portions: cups, cans, or a split between dry and wet food. It switches between pounds and kilograms, and between cups and grams.
 
-It’s one static page: no framework, no backend, no logins. The feeding math is vet-validated, and a 111-case golden-master test pins every output, so a refactor can’t quietly change a recommendation. Screenshot tests guard the mobile and print layouts.
+Every result gets its own link you can bookmark, print, or send to whoever else feeds the cat. Kara uses it during exam visits, so it’s built to work on a phone and on paper.
+
+It gives estimates, not prescriptions. Kittens, cats with medical conditions, and cats on prescription diets should have their plan checked by a vet. [How to use the Cat Food Calculator](https://catrepairwoman.com/how-to-use-cat-food-calculator/) walks through it step by step.
 
 
